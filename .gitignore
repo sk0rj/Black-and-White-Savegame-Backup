@@ -1,0 +1,14 @@
+/.mypy_cache
+/build
+/classes/__pycache__
+/classes/backup/__pycache__
+/classes/restore/__pycache__
+/dist
+/modules/file_operation/__pycache__
+/modules/misc/__pycache__
+/modules/registry_operation/__pycache__
+/modules/settings/__pycache__
+/modules/zip_operation/__pycache__
+/releases
+info.txt
+main.spec

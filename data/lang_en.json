@@ -1,0 +1,127 @@
+{
+    "backup_exists": [
+        "The backup file already exists, overwrite? (y/n): ",
+        "The existing backup file will be overwritten.",
+        "The existing backup file will not be overwritten.",
+        "Invalid input - 'y' to overwrite; 'n' to not overwrite."
+    ],
+    "backup_file": [
+        "Backup file created successfully:",
+        "Error creating the backup file."
+    ],
+    "backup_info": [
+        "Backup information written to backup_info.json.",
+        "Error writing backup information."
+    ],
+    "choose_action": [
+        "Create backup or Restore? [(b)ackup / (r)estore]: ",
+        "Invalid input - 'b' for backup; 'r' for restore."
+    ],
+    "copy_mind": [
+        "Creature Mind file has been copied.",
+        "Error copying the Creature Mind file."
+    ],
+    "copy_physique": [
+        "Creature Physique file has been copied.",
+        "Error copying the Creature Physique file."
+    ],
+    "copy_profile": [
+        "Profile directory has been copied.",
+        "Error copying the profile directory."
+    ],
+    "create_backup": [
+        "Backup completed successfully.",
+        "No backup was created."
+    ],
+    "create_temp": [
+        "Temp directory created:",
+        "Error creating the temp directory.",
+        "Temp directory could not be created."
+    ],
+    "del_temp": [
+        "Temp directory deleted:",
+        "Error deleting the temp directory."
+    ],
+    "delete_old_files": [
+        "Old profile data deleted.",
+        "Error deleting old profile data."
+    ],
+    "desktop_dir": [
+        "Path to Desktop:",
+        "Error retrieving the Desktop path."
+    ],
+    "export_reg_key": [
+        "Registry key exported successfully.",
+        "Error exporting the registry key."
+    ],
+    "game_dir": [
+        "Path to game directory:",
+        "Error retrieving the game directory."
+    ],
+    "gather_backup_data": [
+        "Required data for backup successfully gathered.",
+        "Error gathering the required backup data."
+    ],
+    "gather_restore_data": [
+        "Required data for restoration successfully gathered.",
+        "Error gathering the required restoration data."
+    ],
+    "import_reg_key": [
+        "Registry key imported successfully.",
+        "Error importing the registry key."
+    ],
+    "language_loaded": "Language file loaded successfully: English",
+    "load_config": [
+        "Configuration file loaded successfully.",
+        "Error loading the configuration file."
+    ],
+    "mind_file": [
+        "The Creature Mind file is:",
+        "Error retrieving the Creature Mind file."
+    ],
+    "physique_file": "The Creature Physique file is:",
+    "process_success": [
+        "Operation completed successfully, press Enter to exit.",
+        "Operation was not successful, press Enter to exit."
+    ],
+    "profile_exists_check": [
+        "No existing profile data found, restoring profile.",
+        "Profile data already exists, overwrite? (y/n) ",
+        "Existing data will be overwritten.",
+        "Existing data will not be overwritten."
+    ],
+    "profile_list": [
+        "List of available profiles:",
+        "Error reading profiles.",
+        "No profiles found."
+    ],
+    "read_data": [
+        "Backup information read successfully.",
+        "Error reading backup information."
+    ],
+    "restore_backup": [
+        "Backup restored successfully.",
+        "Error restoring the backup."
+    ],
+    "restore_file": [
+        "Select backup to restore (path\\file.zip): ",
+        "File not found, please check the path.",
+        "Profile selected for restoration:",
+        "Error selecting the backup."
+    ],
+    "select_profile": [
+        "Which profile should be backed up?",
+        "Enter the number of the profile to back up: ",
+        "Invalid input.",
+        "Selected profile:",
+        "Error selecting the profile."
+    ],
+    "unzip_backup": [
+        "Backup files unzipped successfully.",
+        "Error unzipping backup files."
+    ],
+    "write_last_profile": [
+        "Name of the restored profile set as the last used profile.",
+        "Error setting the name of the last used profile."
+    ]
+}

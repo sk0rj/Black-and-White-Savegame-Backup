@@ -1,0 +1,127 @@
+{
+    "backup_exists": [
+        "Die Backup-Datei existiert bereits, überschreiben? (y/n): ",
+        "Die bestehende Backup-Datei wird überschrieben.",
+        "Die bestehende Backup-Datei wird nicht überschrieben.",
+        "Ungültige Eingabe - 'y' überschreiben; 'n' nicht überschreiben."
+    ],
+    "backup_file": [
+        "Backup-Datei erfolgreich erstellt:",
+        "Fehler beim Erstellen der Backup-Datei."
+    ],
+    "backup_info": [
+        "Backup-Informationen in backup_info.json geschrieben.",
+        "Fehler beim Schreiben der Backup-Informationen."
+    ],
+    "choose_action": [
+        "Backup erstellen oder Wiederherstellen? [(b)ackup / (r)estore]: ",
+        "Ungültige Eingabe - 'b' Backup; 'r' Wiederherstellen."
+    ],
+    "copy_mind": [
+        "Creature Mind-Datei wurde kopiert.",
+        "Fehler beim Kopieren der Creature Mind-Datei."
+    ],
+    "copy_physique": [
+        "Creature Physique-Datei wurde kopiert.",
+        "Fehler beim Kopieren der Creature Physique-Datei."
+    ],
+    "copy_profile": [
+        "Profilverzeichnis wurde kopiert.",
+        "Fehler beim Kopieren des Profilverzeichnisses."
+    ],
+    "create_backup": [
+        "Backup erfolgreich abgeschlossen.",
+        "Es wurde kein Backup erstellt."
+    ],
+    "create_temp": [
+        "Temp-Verzeichnis erstellt:",
+        "Fehler beim Erstellen des Temp-Verzeichnisses.",
+        "Temp-Verzeichnis konnte nicht erstellt werden."
+    ],
+    "del_temp": [
+        "Temp-Verzeichnis gelöscht:",
+        "Fehler beim Löschen des Temp-Verzeichnisses."
+    ],
+    "delete_old_files": [
+        "Alte Profildaten gelöscht.",
+        "Fehler beim löschen der alten Profildaten."
+    ],
+    "desktop_dir": [
+        "Pfad zum Desktop:",
+        "Fehler beim ermitteln des Desktops."
+    ],
+    "export_reg_key": [
+        "Registry-Schlüssel erfolgreich exportiert.",
+        "Fehler beim exportieren des Registry-Schlüssels."
+    ],
+    "game_dir": [
+        "Pfad zum Spielverzeichnis:",
+        "Fehler beim ermitteln des Spielverzeichnisses."
+    ],
+    "gather_backup_data": [
+        "Erforderliche Daten für das Backup erfolgreich ermittelt.",
+        "Fehler beim Sammeln der erforderlichen Backup-Daten."
+    ],
+    "gather_restore_data": [
+        "Erforderliche Daten für den Wiederherstellungsvorgang erfolgreich ermittelt.",
+        "Fehler beim Sammeln der erforderlichen Wiederherstellungs-Daten."
+    ],
+    "import_reg_key": [
+        "Registry-Schlüssel erfolgreich importiert.",
+        "Fehler beim importieren des Registry-Schlüssels."
+    ],
+    "language_loaded": "Sprachdatei erfolgreich geladen: Deutsch",
+    "load_config": [
+        "Konfigurationsdatei erfolgreich geladen.",
+        "Fehler beim Laden der Konfigurationsdatei."
+    ],
+    "mind_file": [
+        "Die Creature Mind-Datei ist:",
+        "Fehler beim Ermitteln der Creature Mind-Datei."
+    ],
+    "physique_file": "Die Creature Physique-Datei ist:",
+    "process_success": [
+        "Vorgang erfolgreich beendet, zum beenden Enter drücken.",
+        "Vorgang war nicht erfolgreich, zum beenden Enter drücken."
+    ],
+    "profile_exists_check": [
+        "Keine bestehenden Profildaten gefunden, Profil wird wiederhergestellt.",
+        "Es sind bereits Daten dieses Profils vorhanden, überschreiben? (y/n) ",
+        "Bestehende Daten werden überschrieben.",
+        "Bestehende Daten werden nicht überschrieben."
+    ],
+    "profile_list": [
+        "Liste verfügbarer Profile:",
+        "Fehler beim auslesen der Profile.",
+        "Keine Profile gefunden."
+    ],
+    "read_data": [
+        "Backup Informationen erfolgreich ausgelesen.",
+        "Fehler beim auslesen der Backup Informationen."
+    ],
+    "restore_backup": [
+        "Backup erfolgreich wiederhergestellt.",
+        "Fehler beim wiederherstellen des Backups."
+    ],
+    "restore_file": [
+        "Backup zum wiederherstellung auswählen (Pfad\\Datei.zip): ",
+        "Datei konnte nicht gefunden werden, bitte Pfad überprüfen.",
+        "Profil für Wiederherstellung ausgewählt:",
+        "Fehler beim auswählen des Backups."
+    ],
+    "select_profile": [
+        "Welches Profil soll gesichert werden?",
+        "Nummer des zu sichernden Profils eingeben: ",
+        "Ungültige Eingabe.",
+        "Gewähltes Profil:",
+        "Fehler bei der Auswahl des Profils."
+    ],
+    "unzip_backup": [
+        "Backup Dateien erfolgreich entpackt.",
+        "Fehler beim entpacken der Backup Dateien."
+    ],
+    "write_last_profile": [
+        "Namen des wiederherstellten Profils als zuletzt genutztes Profil gesetzt.",
+        "Fehler beim setzen des Namens des zuletzt benutzen Profils."
+    ]
+}

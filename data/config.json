@@ -1,0 +1,23 @@
+{
+    "backup_info": "backup_info.json",
+    "desktop_dir": [
+        "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\",
+        "Desktop"
+    ],
+    "game_dir": [
+        "Software\\Lionhead Studios Ltd\\Black & White",
+        "GameDir"
+    ],
+    "mind_files": "Scripts\\CreatureMind\\",
+    "physique_file": "Physique",
+    "profile_dir": "Profiles\\",
+    "profiles": [
+        "Software\\Lionhead Studios Ltd\\Black & White\\LHMultiplayer",
+        "\\Profiles",
+        "file",
+        "Profile"
+    ],
+    "reg_file": "profile.reg",
+    "reg_hive": "HKEY_CURRENT_USER",
+    "temp": "bwbackup"
+}
